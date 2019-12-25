@@ -3,6 +3,7 @@ package com.ksh980212.springboot.web;
 import com.ksh980212.springboot.web.dto.PostsResponseDto;
 import com.ksh980212.springboot.web.dto.PostsSaveRequestDto;
 import com.ksh980212.springboot.web.dto.PostsUpdateRequestDto;
+import com.ksh980212.springboot.service.PostsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
