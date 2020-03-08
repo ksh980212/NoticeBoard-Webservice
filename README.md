@@ -4,6 +4,7 @@
 
 
 * Springboot
+* Gradle
 * JPA
 * H2
 * JUnit
